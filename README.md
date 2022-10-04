@@ -13,8 +13,8 @@ The repository is organized into below folders under the *test* folder:
 
 There are 4 scenarios in the feature file.
 
-If all scenarios pass then it can be assumed that news is genuine
-If any of the scenarios fail then there might be chance that the news is not genuine
+* If all scenarios pass then it can be assumed that news is genuine
+* If any of the scenarios fail then there might be chance that the news is not genuine
 
 
 Note:
