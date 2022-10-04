@@ -6,10 +6,10 @@ This repository contains one java project: Chase-Test
 
 The repository is organized into below folders under the *test* folder:
 
-resources/features - BDD test feature files
-java/com/chase/framework - Selenium specific class files to make it easy to write tests
-java/com/chase/pageobjects - Page object classes specific to various websites
-java/com/chase/steps - BDD test implementations
+* resources/features - BDD test feature files
+* java/com/chase/framework - Selenium specific class files to make it easy to write tests
+* java/com/chase/pageobjects - Page object classes specific to various websites
+* java/com/chase/steps - BDD test implementations
 
 There are 4 scenarios in the feature file.
 
